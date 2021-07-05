@@ -8,6 +8,7 @@ cfg/
 *.apy
 .DS_Store
 *.pkl
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
